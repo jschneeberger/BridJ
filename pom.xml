@@ -169,7 +169,7 @@
 <plugin>
 					<groupId>com.nativelibs4java</groupId>
 					<artifactId>maven-velocity-plugin</artifactId>
-					<version>0.10-lorislab-1</version>
+					<version>0.9</version>
 					<executions>
 						<execution>
 							<phase>generate-sources</phase>

@@ -43,8 +43,9 @@ import org.bridj.jawt.JAWT_Rectangle;
 import org.junit.Test;
 
 public class JAWTTest {
-	
-	@Test
+
+    // Removed test - jschneeberger
+    //	@Test
 	public void testWindowPeer() throws Exception {
     if (Platform.isMacOSX() ||
         System.getProperty("java.version").matches("1\\.6\\..*")) {
